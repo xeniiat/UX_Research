@@ -14,13 +14,15 @@
 *   **Персона**  
     *   Визуализация и описание целевого пользователя (доступны в Figma, в виде изображения и в тексотовом файле).  
     *   [Ссылка на макет персоны в Figma](https://www.figma.com/board/1LZ4QHXccl6YepIySao0dP/CJM-Tripster?node-id=0-1&p=f&t=5tNyJ1nu827qfXOz-0)
-    *   **Скриншот Персоны**: ![Файл] (UX_Research\src\assets\persona.png) `assets/persona.png`
-    *   **Текстовое описание**: `docs/persona_description.md`
+    *   **Скриншот Персоны**: `src/assets/persona.png`
+        ![Персона] (src/assets/persona.png)
+    *   **Текстовое описание**: `src/docs/persona_description.md`
 
 *   **Customer Journey Map**  
     *   Визуализация пути пользователя, построенная с учётом характеристик персоны.  
     *   [Ссылка на макет CJM в Figma](https://www.figma.com/board/1LZ4QHXccl6YepIySao0dP/CJM-Tripster?node-id=0-1&p=f&t=5tNyJ1nu827qfXOz-0) 
-    *   **Скриншот CJM**: ![Файл] (UX_Research\src\assets\cjm_tripster.png) `assets/cjm_tripster.png`
+    *   **Скриншот CJM**: `src/assets/cjm_tripster.png`
+    ![CJM] (src/assets/cjm_tripster.png)
 
 
 *   **Customer Journey Map**: Визуализация пути пользователя, созданная в Figma. [Ссылка на макет в Figma](https://www.figma.com/board/1LZ4QHXccl6YepIySao0dP/CJM-Tripster?node-id=0-1&p=f&t=5tNyJ1nu827qfXOz-0)
