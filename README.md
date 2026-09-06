@@ -14,13 +14,13 @@
 *   **Персона**  
     *   Визуализация и описание целевого пользователя (доступны в Figma, в виде изображения и в тексотовом файле).  
     *   [Ссылка на макет персоны в Figma](https://www.figma.com/board/1LZ4QHXccl6YepIySao0dP/CJM-Tripster?node-id=0-1&p=f&t=5tNyJ1nu827qfXOz-0)
-    *   **Скриншот Персоны**: ![Файл] (UX_Research/src/assets/persona.png) `assets/persona.png`
+    *   **Скриншот Персоны**: ![Файл] (UX_Research\src\assets\persona.png) `assets/persona.png`
     *   **Текстовое описание**: `docs/persona_description.md`
 
 *   **Customer Journey Map**  
     *   Визуализация пути пользователя, построенная с учётом характеристик персоны.  
     *   [Ссылка на макет CJM в Figma](https://www.figma.com/board/1LZ4QHXccl6YepIySao0dP/CJM-Tripster?node-id=0-1&p=f&t=5tNyJ1nu827qfXOz-0) 
-    *   **Скриншот CJM**: ![Файл] (UX_Research/src/assets/cjm_tripster.png) `assets/cjm_tripster.png`
+    *   **Скриншот CJM**: ![Файл] (UX_Research\src\assets\cjm_tripster.png) `assets/cjm_tripster.png`
 
 
 *   **Customer Journey Map**: Визуализация пути пользователя, созданная в Figma. [Ссылка на макет в Figma](https://www.figma.com/board/1LZ4QHXccl6YepIySao0dP/CJM-Tripster?node-id=0-1&p=f&t=5tNyJ1nu827qfXOz-0)
@@ -43,5 +43,5 @@
 
 ## Как использовать этот репозиторий
 1.  Прочитайте `README.md`, чтобы понять общую структуру и цели исследования.  
-2.  Изучите **персону** (изображение в `assets/` или макет в Figma) – это поможет вам понять, для кого именно строилась карта пути.  
+2.  Изучите **персону** (изображение в `assets/persona.png` или макет в Figma) – это поможет вам понять, для кого именно строилась карта пути.  
 3.  Перейдите к **Customer Journey Map** (`assets/cjm-tripster.png` или Figma-макет) – здесь показан полный путь пользователя с выделенными болевыми точками и возможностями.  
