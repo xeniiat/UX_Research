@@ -23,10 +23,6 @@
         ![Customer Journey Map для Tripster](src/assets/cjm_tripster.png)
 
 
-*   **Customer Journey Map**: Визуализация пути пользователя, созданная в Figma. [Ссылка на макет в Figma](https://www.figma.com/board/1LZ4QHXccl6YepIySao0dP/CJM-Tripster?node-id=0-1&p=f&t=5tNyJ1nu827qfXOz-0)
-*   **Скриншот CJM**: ![Файл] (UX_Research/src/assets/cjm_tripster.png) `assets/cjm_tripster.png`
-
-
 ## Методология
 *   **Методы сбора данных**:  
     *   Глубинные интервью с потенциальными пользователями.  
